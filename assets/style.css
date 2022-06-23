@@ -76,3 +76,13 @@
     margin-bottom: 30px;
     font-size: 20px;
 }
+
+.country-review a {
+    display: block;
+    text-align: center;
+    height: 40px;
+    line-height: 40px;
+    background-color: tomato;
+    color: white;
+    text-decoration: none;
+}
