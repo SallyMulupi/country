@@ -47,3 +47,9 @@
 .country-fact>img:hover {
     transform: scale(1.04);
 }
+
+.country-info {
+    padding: 20px;
+    width: 100%;
+    position: relative;
+}
