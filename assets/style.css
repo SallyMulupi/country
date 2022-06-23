@@ -53,3 +53,10 @@
     width: 100%;
     position: relative;
 }
+
+.country-name,
+.country-code,
+.country-emoji,
+.country-unicode {
+    margin-bottom: 20px;
+}
