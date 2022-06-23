@@ -18,3 +18,7 @@
 .country {
     display: flex;
 }
+
+.countries {
+    flex: 0.75;
+}
