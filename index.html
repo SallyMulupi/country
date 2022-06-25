@@ -17,7 +17,16 @@
             <input type="text" id="country-inp" placeholder="Search any country ..." />
             <button id="search-btn">Search</button>
         </div>
-        <div id="result"></div>
+        <div id="result"> <img src="${data[0].flags.svg}" class="flag-img">
+            <h2>Country Name</h2>
+
+            <div class="likes-section">
+                <span id="like-count" class="likes">0 likes</span>
+                <button id="like-button" class="like-button">♥</button>
+            </div>
+        </div>
+
+    </div>
     </div>
     <!-- Script -->
     <script src="index.js"></script>
