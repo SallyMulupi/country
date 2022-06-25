@@ -116,3 +116,7 @@
                                                                                 transition: color 300ms;
                                                                                 cursor: pointer;
                                                                             }
+                                                                            
+                                                                            .like-button:hover {
+                                                                                color: rgb(241, 71, 19);
+                                                                            }
