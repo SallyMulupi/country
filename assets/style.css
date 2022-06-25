@@ -107,3 +107,12 @@
                                                                                 font-size: 1.9rem;
                                                                                 font-weight: 600;
                                                                             }
+                                                                            
+                                                                            .like-button {
+                                                                                color: rgb(255, 127, 80);
+                                                                                font-size: 4.5rem;
+                                                                                border: none;
+                                                                                background: none;
+                                                                                transition: color 300ms;
+                                                                                cursor: pointer;
+                                                                            }
