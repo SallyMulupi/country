@@ -19,4 +19,11 @@ searchBtn.addEventListener("click", () => {
                             <h4 > Capital: < /h4> <
                             span > $ { data[0].capital[0] } < /span>
                              </div> 
+                             </div><div class="wrapper">
+                             <div class="data-wrapper">
+                                 <h4>Currency:</h4>
+                                 <span>${
+                                   data[0].currencies[Object.keys(data[0].currencies)].name
+                                 } - ${Object.keys(data[0].currencies)[0]}</span>
                              </div>
+                         </div>
