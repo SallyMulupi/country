@@ -29,3 +29,9 @@
                                                                                 border-radius: 0.62em;
                                                                                 box-shadow: 0 1.25em 1.8em rgba(8, 21, 65, 0.25);
                                                                             }
+                                                                            
+                                                                            .search-wrapper {
+                                                                                display: grid;
+                                                                                grid-template-columns: 9fr 3fr;
+                                                                                gap: 1.25em;
+                                                                            }
