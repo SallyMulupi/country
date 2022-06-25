@@ -1,5 +1,9 @@
 let searchBtn = document.getElementById("search-btn");
 let countryInp = document.getElementById("country-inp");
+let countLikes = document.getElementById('like-count')
+
+let likeButton = document.getElementById('like-button')
+
 searchBtn.addEventListener("click", () => {
     let countryName = countryInp.value;
     let finalURL = `https://restcountries.com/v3.1/name/${countryName}?fullText=true`;
@@ -34,10 +38,7 @@ searchBtn.addEventListener("click", () => {
                                .join(", ")}</span>
                          </div>
              
-                         <div class="likes-section">
-                         <span id="like-count" class="likes">0 likes</span>
-                         <button id="like-button" class="like-button">♥</button>
-                     </div>
+                         
                      </div>
                    `;
         })
@@ -49,9 +50,6 @@ searchBtn.addEventListener("click", () => {
             }
         });
 });
-let countLikes = document.getElementById('like-count')
-
-let likeButton = document.getElementById('like-button')
 
 
 let integer = 0;
