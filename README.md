@@ -4,7 +4,7 @@ country
 ### Author : Name Date
 Sally mulupi 25/06/2022
 ## Project Description
-Lincolin personal portfolio is a project designed to show the  personal background information of  an individual.It also shows the academics level of an individual and experince in the respective career industry.It also shows the capability and  of invidual to any job opportunity in their respectve career field. Incase you want to keep in touch with the individual ,we  have the contact section where it hold the social media links and other relevant  network  links.
+Sally's country prtoject which reflects a country name ,flag, common language and currency and also one can like the country he/she loves through clicking at the like section.
 ### Requirements
 * Text editor eg [Visual Studio Code](https://code.visualstudio.com/download)
 * [Testing Platform](Platform URL)
