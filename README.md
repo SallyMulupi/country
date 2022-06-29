@@ -36,7 +36,7 @@ Or you can access the web application directly via this [LINK.](https://github.c
  ****
 * Clone to thir repo : git clone https://github.com/SallyMulupi/country.git
 ## Known Bugs:
-No bugs are reported so far. Noticed any bug? KIndly contact me on lincolinangaya5626@gmail.com
+No bugs are reported so far. Noticed any bug? KIndly contact me on mulupisally@gmail.com
 ## for set-up you can :
 [MIT](https://github.com/SallyMulupi/country.git)
 Please make sure to update tests as appropriate.
